@@ -1,0 +1,265 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+body
+{
+  background-color:#000000;
+}
+h1{
+    margin-top: 1cm;
+    font-family: Arial;
+    font-size: 30px;
+  color: white;
+}
+h2{
+   margin-top: 0 auto;
+    font-family: 'Courier New', Courier, monospace;;
+    font-size: 15px;
+    font-size: 15px;
+  color: white;
+}
+h3{
+  font-family: Arial;
+  font-size: 25px;
+  color: black;
+}
+a {
+  padding: 10px;
+  margin-top: 2cm;
+
+  color: white;
+  text-decoration: none;
+  
+}
+span {
+  color: red;
+}
+span.green {
+    color: greenyellow;
+}
+span.blue {
+    color: dodgerblue;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  font-size: 15px;
+}
+p.sprawa {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 25px;
+  color: white;
+ 
+  
+}
+p.yellow {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: yellow;
+ 
+  
+}
+p.mail {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: white;
+ 
+  
+}
+.tekst {
+      margin: 0 auto;
+    text-align: center;
+    width: 1000px;
+  height: 1cm;
+
+}
+a:hover {
+  color: red;
+}
+ul {
+  margin-top: 3cm;
+}
+li {
+  margin-top: 15px;
+}
+p.modal-text
+{
+  font-family: Arial;
+  font-size: 25px;
+ 
+}
+.bg
+{
+  width: 
+  height: 2cm;
+  text-align: center;
+  background-color: #f5e2ae;;
+  border-radius: 3px;
+}
+.box {
+   width: 100px;
+  height: 1cm;
+  text-align: center;
+  background-color: #000000;
+  border-radius: 3px;
+}
+p.privacy
+{
+
+  font-family: Arial;  
+  font-size: 15px;
+  color: white;
+  border-color: black;
+  
+}
+#container {
+  margin-top: 5cm;
+  text-align: center;
+  padding: 20px;
+
+}
+#container2 {
+  margin-top: 5cm;
+  text-align: center;
+  padding: 20px;
+
+}
+.link-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: 100;
+
+}
+input[type=text], input[type=submit] {
+  width: 30%;
+  padding: 12px;
+  margin: 7px 0;
+  display: inline-block;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+  background:transparent
+}
+.submit
+{
+  margin-top: 1cm;
+  text-align: center;
+  padding: 8px;
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-size: 10px;
+}
+submit:hover
+{
+ background-color: white;
+}
+#myButton {
+  background-color: black;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color: white;
+	font-family:Arial;
+	font-size:30px;
+	padding:10px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+  
+}
+#myButton:hover {
+	background-color: black;
+  color: white;
+}
+#myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer {
+  text-align: center;
+    font-family: Arial;
+    font-size: 20px;
+  color: black;
+}
+
+._12 {
+    font-size: 1.2em;
+}
+._14 {
+    font-size: 1.4em;
+}
+ul {
+    padding:0;
+    list-style: none;
+}
+.footer-social-icons {
+    width: 200px;
+    display:block;
+    margin: 0 auto;
+}
+.social-icon {
+    color: #fff;
+}
+ul.social-icons {
+    margin-top: 6px;
+}
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    height: 100px;
+}
+.social-icons a {
+    color: #fff;
+    text-decoration: none;
+}
+.fa-facebook {
+    padding:10px 14px;
+
+
+}
+.fa-facebook:hover {
+    color:red;
+}
+
+.fa-instagram {
+    padding:10px 14px;
+  
+}
+.fa-instagram:hover {
+color:red;
+
+}
+.fa-youtube {
+    padding:10px 14px;
+
+}
+.fa-youtube:hover {
+  color:red;
+
+}
+.fa-linkedin {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-linkedin:hover {
+    background-color: #0073a4;
+}
+.fa-github {
+    padding:10px 14px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+    background-color: #322f30;
+}
+.fa-github:hover {
+    background-color: #5a32a3;
+}
+.footer {
+    position: sticky;
+    
+}
